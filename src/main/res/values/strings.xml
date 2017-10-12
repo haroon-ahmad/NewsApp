@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignment-1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="News">News</string>
+    <string name ="For_All">For All</string>
+    <string name ="From_All">From All</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_imagedownload">imagedownload</string>
+    <string name="title_activity_newsfeed">Newsfeed</string>
+    <string name="save">Save</string>
+    <string name="saved_news">Saved News</string>
+    <string name="title_activity_saved_news">SavedNews</string>
+    <string name="title_activity_detailed_news">DetailedNews</string>
+
+</resources>
